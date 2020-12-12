@@ -1,0 +1,3 @@
+[submodule "Exercise.Tests"]
+	path = Exercise.Tests
+	url = https://github.com/Plymouth-Comp/2020-COMP1000-Test7
